@@ -1,9 +1,9 @@
-![oonkoo_banner](https://github.com/oonkoo/oonkoo-coming-soon/assets/58574102/ac142012-9177-475b-8802-9d74ac114156)
 
-# oonkoo
+![kolom](https://github.com/user-attachments/assets/f27ff648-a839-479e-8b0e-6bbc52dd6684)
+
+# kolom-ai-preview
 ---
 launcheing
 ---
 >> ===================== > 
 >>
-# kolom-ai-preview
